@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace AB\Queue\Plugin\Order;
 
 use Magento\Sales\Api\OrderManagementInterface;

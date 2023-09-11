@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace AB\Queue\Model;
 
 use AB\Queue\Api\MessageInterface;
